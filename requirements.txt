@@ -1,0 +1,12 @@
+pandas~=1.5.2
+joblib~=1.5.3
+fastapi~=0.116.1
+matplotlib~=3.10.8
+pandas
+numpy
+scikit-learn
+joblib
+fastapi
+uvicorn
+xgboost
+shap
